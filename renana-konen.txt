@@ -1,0 +1,7 @@
+rencana konten
+
+- javascript
+* es 6
+* framework js
+-interview
+-vlog
